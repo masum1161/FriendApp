@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FriendApp</string>
+    <string name="user_db">users</string>
+    <string name="sign_in_to_continue">Sign In to continue</string>
+    <string name="chats">Chats</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+</resources>
